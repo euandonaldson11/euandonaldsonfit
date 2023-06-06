@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Euandonaldsonfit - Personal Training and Online Coaching</title>
+  <style>
+    /* CSS styles for basic layout and design */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    h1 {
+      margin: 0;
+    }
+    
+    main {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Euandonaldsonfit</h1>
+    <p>Personal Training and Online Coaching</p>
+  </header>
+  
+  <main>
+    <h2>Welcome to Euandonaldsonfit!</h2>
+    
+    <p>Are you ready to achieve your fitness goals and transform your life? Look no further!</p>
+    
+    <h3>About Me</h3>
+    
+    <p>Hi, I'm Euandonaldsonfit, a certified personal trainer and online coach. I am passionate about helping individuals reach their fitness potential, whether it's through personalized training sessions or virtual coaching.</p>
+    
+    <h3>Services Offered</h3>
+    
+    <ul>
+      <li>One-on-One Personal Training</li>
+      <li>Customized Workout Plans</li>
+      <li>Diet and Nutrition Guidance</li>
+      <li>Online Coaching and Support</li>
+    </ul>
+    
+    <h3>Contact Me</h3>
+    
+    <p>Ready to take the next step? Contact me today to discuss your fitness goals and how I can help you achieve them.</p>
+    
+    <p>Email: info@euandonaldsonfit.com</p>
+    <p>Phone: 123-456-7890</p>
+  </main>
+</body>
+</html>
